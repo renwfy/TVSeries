@@ -9,9 +9,9 @@
 * [GitHub](https://github.com/renwfy/TVSeries/releases)
 
 ## 预览
-![](https://github.com/renwfy/TVSeries/master/home.png)
-![](https://github.com/renwfy/TVSeries/master/details.png)
-![](https://github.com/renwfy/TVSeries/master/paly.png)
+![](https://github.com/renwfy/TVSeries/blob/master/home.png)
+![](https://github.com/renwfy/TVSeries/blob/master/details.png)
+![](https://github.com/renwfy/TVSeries/blob/master/play.png)
 
 
 ## 联系
