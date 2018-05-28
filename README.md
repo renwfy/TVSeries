@@ -1,6 +1,6 @@
 # TV视频
 
-![](https://img.shields.io/badge/platform-tv-red.svg) ![](https://img.shields.io/badge/version-1.0.3-red.svg)
+![](https://img.shields.io/badge/platform-tv-red.svg) ![](https://img.shields.io/badge/version-1.1.2-red.svg)
 
 >沙发上看电影、电视、美剧！！。
 
