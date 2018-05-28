@@ -17,7 +17,8 @@
 
 
 ## 联系
-![主页](https://github.com/renwfy/TVSeries)
+* [主页](https://github.com/renwfy/TVSeries)
+
 大家有好的想法可以来提建议  
 renwfy@126.com
 
