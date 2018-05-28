@@ -6,7 +6,7 @@
 
 
 ## 下载地址
-* [GitHub](https://github.com/renwfy/TVSeries/releases)
+* [GitHub](http://osd7ajdna.bkt.clouddn.com/iku_release.apk)
 
 ## 预览
 ![](https://github.com/renwfy/TVSeries/blob/master/001.png)
