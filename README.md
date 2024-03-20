@@ -6,7 +6,7 @@
 
 
 ## 下载地址
-* [下载](http://osd7ajdna.bkt.clouddn.com/iku_release.apk)
+* [下载](http://okgo.fun)
 
 ## 预览
 ![](https://github.com/renwfy/TVSeries/blob/master/001.png)
@@ -18,6 +18,4 @@
 
 ## 联系
 * [主页](https://github.com/renwfy/TVSeries)
-大家有好的想法可以来提建议
-renwfy@126.com
 
